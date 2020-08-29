@@ -1,0 +1,7 @@
+# lw auth credentials
+un='asdf'
+pw='asdf'
+
+# file locations
+token_cache = '~/.lw_token'
+

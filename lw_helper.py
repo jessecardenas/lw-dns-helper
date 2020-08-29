@@ -2,7 +2,6 @@
 import argparse
 import requests, json, pprint
 import sys, os, time, datetime
-import configparser
 import config as c
 
 # Issues:

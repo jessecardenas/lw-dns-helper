@@ -8,8 +8,8 @@ import config as c
 # Todo:
 #  API boilerplate function
 # In progress:
-#  Auth
 # Done:
+#  Auth
 #  Basic framework
 #  Initial parser
 #

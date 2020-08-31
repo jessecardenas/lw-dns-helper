@@ -3,5 +3,5 @@ un='asdf'
 pw='asdf'
 
 # file locations
-token_cache = '~/.lw_token'
+token_cache = '~/.lw_storm_token'
 
